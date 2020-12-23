@@ -21,11 +21,8 @@
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
 # 2020 changes by rundekugel @github:
-# more easy to use with default params
-
-# 2020 changes by beb @stepover to use with other embedded systems
-
-
+# - more easy to use with default params
+# - changes to use with other embedded systems
 
 # command line parameters
 
