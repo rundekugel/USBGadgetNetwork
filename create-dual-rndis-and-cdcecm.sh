@@ -238,7 +238,7 @@ down)
 *)
   echo "Create USB Gadget device dual CDC/ECM and rndis V0.1.1 for MAC, Linux and Windows"
   echo "Original copyright (C) 2015,2017 David Lechner <david@lechnology.com>"
-  echo "Modified 2020 by rundekugel @github and beb @stepover.de"
+  echo "Modified 2020 by rundekugel @github"
   echo " "
   echo "Usage: $0 up|down [options]"
   echo " options:"
